@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teacher", "Networked_Math_Quiz\Teacher.csproj", "{50275468-57DC-4105-8B18-013BBF5D13FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Networked_Math_Quiz\Student\Student.csproj", "{E613DD0A-22AC-498B-A965-C1FC814C7D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50275468-57DC-4105-8B18-013BBF5D13FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50275468-57DC-4105-8B18-013BBF5D13FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50275468-57DC-4105-8B18-013BBF5D13FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50275468-57DC-4105-8B18-013BBF5D13FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E613DD0A-22AC-498B-A965-C1FC814C7D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E613DD0A-22AC-498B-A965-C1FC814C7D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E613DD0A-22AC-498B-A965-C1FC814C7D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E613DD0A-22AC-498B-A965-C1FC814C7D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {958EF877-270C-4A26-B328-80DB7DD9E834}
+	EndGlobalSection
+EndGlobal

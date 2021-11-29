@@ -1,0 +1,10 @@
+C:\Users\Kohei\Desktop\Networked_Math_Quiz\Networked_Math_Quiz\obj\Debug\Networked_Math_Quiz.Properties.Resources.resources
+C:\Users\Kohei\Desktop\Networked_Math_Quiz\Networked_Math_Quiz\obj\Debug\Networked_Math_Quiz.Teacher_form.resources
+C:\Users\Kohei\Desktop\Networked_Math_Quiz\Networked_Math_Quiz\obj\Debug\Teacher.csproj.GenerateResource.cache
+C:\Users\Kohei\Desktop\Networked_Math_Quiz\Networked_Math_Quiz\obj\Debug\Teacher.csproj.CoreCompileInputs.cache
+C:\Users\Kohei\Desktop\Networked_Math_Quiz\Networked_Math_Quiz\obj\Debug\Networked_Math_Quiz.exe
+C:\Users\Kohei\Desktop\Networked_Math_Quiz\Networked_Math_Quiz\obj\Debug\Networked_Math_Quiz.pdb
+C:\Users\Kohei\Desktop\Networked_Math_Quiz\Networked_Math_Quiz\obj\Debug\Teacher.csproj.AssemblyReference.cache
+C:\Users\Kohei\Desktop\Networked_Math_Quiz\Networked_Math_Quiz\bin\Debug\Networked_Math_Quiz.exe.config
+C:\Users\Kohei\Desktop\Networked_Math_Quiz\Networked_Math_Quiz\bin\Debug\Networked_Math_Quiz.exe
+C:\Users\Kohei\Desktop\Networked_Math_Quiz\Networked_Math_Quiz\bin\Debug\Networked_Math_Quiz.pdb
